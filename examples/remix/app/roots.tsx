@@ -151,7 +151,7 @@ function Layout({ children }: { children: React.ReactNode }) {
       </div>
       <footer className="remix-app__footer">
         <div className="container remix-app__footer-content">
-          <p>&copy; You!</p>
+          <p>All Rights Reserved 2022</p>
         </div>
       </footer>
     </div>
